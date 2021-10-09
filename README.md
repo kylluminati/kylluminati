@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kyle Enchill (@kylluminati)
 - 👀 I’m interested in Software Engineering, Web Development, Game Development, and Fiction/Fantasy Writing.
 - 📫 How to reach me - Email 2kenchill@gmail.com 
-- 🌱 I’m currently learning Game Programming in Unity using C#, Computer Graphics in Java, and Human-Computer Interaction
+- 🌱 I’m currently learning Game Programming in Unity using C#, Computer Graphics in Java, and Human-Computer Interaction to design and build an android application.
 
 Projects:
 - Intro to Data Science Final Project - https://kylluminati.github.io/fall2020final/
